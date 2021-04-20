@@ -1,0 +1,3 @@
+bam/02BIOK003.bam
+bam/02BIOK010.bam
+bam/02BIOK016.bam
